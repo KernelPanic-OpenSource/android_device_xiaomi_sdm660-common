@@ -188,8 +188,8 @@ PRODUCT_PACKAGES += \
     vendor.display.config@1.9_vendor
 
 # Doze
-PRODUCT_PACKAGES += \
-    XiaomiDoze
+# PRODUCT_PACKAGES += \
+#     XiaomiDoze
 
 # DPM
 PRODUCT_PACKAGES += \
